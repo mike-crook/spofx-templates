@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "react-crud-spo-app-mcrook",
+    "id": "f20d3351-a2fb-4233-9aa0-0e295951803a",
+    "version": "1.0.0.4"
+  },
+  "paths": {
+    "zippedPackage": "solution/react-crud.sppkg"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "entries": [
+    {
+      "entry": "lib/webparts/reactCrud/ReactCrudWebPart.js",
+      "manifest": "src/webparts/reactCrud/ReactCrudWebPart.manifest.json",
+      "outputPath": "dist/react-crud.bundle.js"
+    }
+  ],
+  "externals": {},
+  "localizedResources": {
+    "reactCrudStrings": "webparts/reactCrud/loc/{locale}.js"
+  }
+}
